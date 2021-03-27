@@ -8,7 +8,7 @@
 
 ### Hello! Welcome to my profile
 
-<img style="margin: 0 auto" src="http://24.media.tumblr.com/tumblr_mbaezj19Em1rrosvlo1_500.gif" height="400">
+<img style="margin: 0 auto" src="http://24.media.tumblr.com/tumblr_mbaezj19Em1rrosvlo1_500.gif" height="500">
 
 ### About
 
