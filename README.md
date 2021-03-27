@@ -13,4 +13,4 @@
 ### About
 
 ![Amit Mishra Status](https://github-readme-stats.vercel.app/api?username=amitmishra7&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmishra7&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmishra7&layout=compact)
