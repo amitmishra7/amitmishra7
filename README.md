@@ -10,6 +10,12 @@
 
 <img style="margin: 0 auto" src="http://24.media.tumblr.com/tumblr_mbaezj19Em1rrosvlo1_500.gif" height="500">
 
+### What I do
+
+<img style="margin: 0 auto" src="https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2020/08/06034931/feat-3-1024x512.png" height="100"> <img style="margin: 0 auto" src="https://buildfire.com/wp-content/uploads/2017/10/ios-vs-android-users.jpg" height="100">
+
+
+
 ### About
 
 ![Amit Mishra Status](https://github-readme-stats.vercel.app/api?username=amitmishra7&show_icons=true)
